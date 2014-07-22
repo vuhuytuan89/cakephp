@@ -4,7 +4,7 @@ class Category extends AppModel{
     var $hasMany=array("Product");
     
     function getCategories($field='Category.id',$direction='DESC'){
-        return $this->find('all',array('order'=>$field.''.$direction));
+        return $this->find('all',array('order'=>$field.' '.$direction));
     }
     function buildCategories($categories,$parent_id){
         $ChildCategories = array();
