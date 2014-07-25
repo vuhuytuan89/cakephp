@@ -2,15 +2,16 @@
     <li><?php echo $html->link('All Category','/') ?></li>
     <?php
         $categories = $this-> requestAction('/categories/menu/c:$catId/p:$pdId/');
+        //debug($categories);
         foreach($categories as $category){
             extract($categories);
-            $lavel = ($parent_id == 0 ) ? 1 : 2;
+            $level = ($parent_id == 0 ) ? 1 : 2;
             $url = "/carts/index/cat_id:" . $id;
-            if($lavel==2){
+            if($level==2){
                 $name = "~~~" . $name;
             }
             $listId = "";
-            if($listI == $catId) {
+            if($id == $catId) {
                 $listId = 'id = "current" ';
             }
             ?>

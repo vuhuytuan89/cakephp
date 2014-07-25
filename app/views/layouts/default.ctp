@@ -4,7 +4,7 @@
 	<meta http-equiv="content-type" content="text/html" />
 	<meta name="author" content="huytuan" />
 
-	<title>Untitled 1</title>
+	<title><?php echo $title_for_layout; ?></title>
 </head>
 
 <body>
@@ -27,8 +27,8 @@
     </div>
     
     </div>
-    <div class="content"></div>
-    <div class="right"></div>
+    <div class="content"><?php echo $content_for_layout; ?></div>
+    <div class="right"><?php echo $this->element('basket'); ?></div>
 </div>
 <div class="footer"></div>
 

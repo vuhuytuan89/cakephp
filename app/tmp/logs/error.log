@@ -172,3 +172,5 @@
 2014-07-22 07:20:43 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\demo\cakephp\app\models\category.php, line 12]
 2014-07-22 07:21:24 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Category.idDESC' in 'order clause'</span> in [E:\xampp\htdocs\demo\cakephp\cake\libs\model\datasources\dbo_source.php, line 684]
 2014-07-22 07:21:24 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\demo\cakephp\app\models\category.php, line 12]
+2014-07-23 04:21:35 Warning: Warning (2): Missing argument 2 for Category::buildCategories(), called in E:\xampp\htdocs\demo\cakephp\app\controllers\categories_controller.php on line 10 and defined in [E:\xampp\htdocs\demo\cakephp\app\models\category.php, line 9]
+2014-07-25 07:40:04 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\demo\cakephp\app\models\category.php, line 12]

@@ -20,7 +20,7 @@ class Category extends AppModel{
             $parent = array($ids[$HoldParentId]);
             $currentId=$parent[0]['id'];
             $HoldParentId = $ids[$HoldParentId]['parent_id'];
-            foreach($category as $category){
+            foreach($categories as $category){
                 if($category['Category']['parent_id']==$HoldParentId && ! in_array($category['Category'],$parent)){
                     $parent[]= $category['Category'];
                 }
@@ -28,7 +28,8 @@ class Category extends AppModel{
             array_multisort($parent);
             $n=count($parent);
             $ChildCategories2 = array();
-            for($i=0; $i<=$n; $i++){
+            for($i=0; $i< $n; $i++){
+                $ChildCategories2[] = $parent[$i];
                 if($parent[$i]['id']==$currentId){
                     $ChildCategories2 = array_merge($ChildCategories2,$ChildCategories);
                 }
@@ -45,7 +46,7 @@ class Category extends AppModel{
         }
         $n=count($categories);
         $child = array();
-        for($i=0; $i<=$n;$i++){
+        for($i=0; $i< $n;$i++){
             $catId= $categories[$i]['id'];
             $parentId=$categories[$i]['parent_id'];
             if($parentId==$id){
