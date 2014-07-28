@@ -11,4 +11,11 @@ class ProductsController extends AppController{
         $allCatIds = array_merge(array($this->passedArgs['c']),$children_ids);
         return $this->Product->lists($allCatIds);
     }
+   function view(){
+        $result = $this -> Product -> find('all',array('condition' => array('Product.id'=> $this->passedArgs['pd_id'])));
+        if(empty($result)){
+            $this->redirect(array('controller'=>'ecommerce','action'=>'index'));
+        }
+        $this->set('product',$result);
+   }
 }

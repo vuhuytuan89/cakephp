@@ -8,8 +8,7 @@ class CategoriesController extends AppController{
     }
     function menu(){
         $categories = $this->getAll();
-        $menu = $this->Category->buildCategories($categories,0);
-        
+        $menu = $this->Category->buildCategories($categories,0);   
         return $menu;
     }
     

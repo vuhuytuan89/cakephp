@@ -12,4 +12,5 @@ class Product extends AppModel{
             return $result;
         }
     }
+    
 }
