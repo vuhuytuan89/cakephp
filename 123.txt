@@ -7,3 +7,509 @@ Konnichi wa: Chào buổi trưa/chiều
 Konban wa: Chào buổi tối
 Otsukaresama desu: Đã vất vả quá/ Cảm ơn nhiều (câu nói chào trước khi đi về)
 Arigatou gozaimasu: Cảm ơn.
+
+
+
+
+Tôi cảm thấy khỏe.
+I feel good.
+
+Tôi không cần.
+I don't care.
+
+Tôi không cảm thấy khỏe.
+I don't feel well.
+
+Tôi không có bạn gái.
+I don't have a girlfriend.
+
+Tôi không có tiền.
+I don't have any money.
+
+Tôi không có đủ tiền.
+I don't have enough money.
+
+Ngay bây giờ tôi không có thời gian.
+I don't have time right now.
+
+Tôi không biết cách dùng nó.
+I don't know how to use it.
+
+Tôi không biết.
+I don't know.
+
+Tôi không thích anh ta.
+I don't like him.
+
+Tôi không thích nó.
+I don't like it.
+
+Tôi không quan tâm.
+I don't mind.
+
+Tôi không nói tiếng Anh giỏi lắm.
+I don't speak English very well.
+
+Tôi không nói giỏi lắm
+I don't speak very well.
+
+Tôi không nghĩ vậy.
+I don't think so.
+
+Tôi không hiểu bạn nói gì.
+I don't understand what your saying.
+
+Tôi không hiểu.
+I don't understand.
+
+Tôi không muốn nó.
+I don't want it.
+
+Tôi không muốn cái đó.
+I don't want that.
+
+Tôi không muốn làm phiền bạn.
+I don't want to bother you.
+
+Tôi quên.
+I forget.
+
+Tôi xong việc lúc 6 giờ.
+I get off of work at 6.
+
+Tôi bỏ cuộc.
+I give up.
+
+Tôi gặp tai nạn.
+I got in an accident.
+
+Tôi bị cảm.
+I have a cold.
+
+Tôi bị nhức đầu.
+I have a headache.
+
+Tôi có nhiều việc phải làm.
+I have a lot of things to do.
+
+Tôi có câu hỏi muốn hỏi bạn/ Tôi muốn hỏi bạn một câu hỏi.
+I have a question I want to ask you./ I want to ask you a question.
+
+Tôi đã đặt trước.
+I have a reservation.
+
+Tôi có tiền.
+I have money.
+
+Tôi có một cái trong xe.
+I have one in my car.
+
+Tôi bị đau ở tay.
+I have pain in my arm.
+
+Tôi có ba người con, hai gái một trai.
+I have three children, two girls and one boy.
+
+Tôi phải ra bưu điện.
+I have to go to the post office.
+
+Tôi phải giặt quần áo.
+I have to wash my clothes.
+
+Tôi có 2 người chị (em gái).
+I have two sisters.
+
+Tôi đã không ở đó.
+I haven't been there.
+
+Tôi chưa ăn xong.
+I haven't finished eating.
+
+Tôi chưa ăn trưa.
+I haven't had lunch yet.
+
+Tôi hy vọng bạn và vợ bạn có một chuyến đi thú vị.
+I hope you and your wife have a nice trip.
+
+Tôi biết.
+I know.
+
+Tôi thích cô ta.
+I like her.
+
+Tôi thích nó.
+I like it.
+
+Tôi thích thức ăn Ý.
+I like Italian food.
+
+Tôi thích xem tivi.
+I like to watch TV.
+
+Tôi sống ở California.
+I live in California.
+
+Tôi bị mất đồng hồ.
+I lost my watch.
+
+Tôi yêu bạn.
+I love you.
+
+Tôi phạm một lỗi lầm.
+I made a mistake.
+
+Tôi làm cái bánh này.
+I made this cake.
+
+Tôi cần một bác sĩ.
+I need a doctor.
+
+Tôi cần một cái chìa khóa khác.
+I need another key.
+
+Tôi cần một ít khăn giấy.
+I need some tissues.
+
+Tôi cần cái này tới đó ngày mai.
+I need this to get there by tomorrow.
+
+Tôi cần thay quần áo.
+I need to change clothes.
+
+Tôi cần về nhà.
+I need to go home.
+
+Tôi cần phải đi bây giờ.
+I need to go now.
+
+Tôi cần thực hành tiếng Anh.
+I need to practice my English.
+
+Tôi chỉ có 5 đô la.
+I only have 5 dollars.
+
+Tôi chỉ cần món ăn nhẹ.
+I only want a snack.
+
+Tôi nhớ.
+I remember.
+
+Tôi nói một chút tiếng Anh.
+I speak a little English.
+
+Tôi nói 2 thứ tiếng.
+I speak two languages.
+
+Tôi còn nhiều thứ phải mua.
+I still have a lot of things to buy.
+
+Tôi còn nhiều thứ phải làm.
+I still have a lot to do.
+
+Tôi còn phải đánh răng và tắm.
+I still have to brush my teeth and take a shower.
+
+Tôi vẫn chưa quyết định.
+I still haven't decided.
+
+Tôi nghĩ tôi cần gặp bác sĩ.
+I think I need to see a doctor.
+
+Tôi nghĩ nó ngon.
+I think it tastes good.
+
+Tôi nghĩ nó rất tốt.
+I think it's very good.
+
+Tôi nghĩ vậy.
+I think so.
+
+Tôi nghĩ những chiếc giày đó rất đẹp.
+I think those shoes are very good looking.
+
+Tôi nghĩ bạn có nhiều quần áo quá.
+I think you have too many clothes.
+
+Tôi nghĩ anh ta đã nói một điều gì khác.
+I thought he said something else.
+
+Tôi nghĩ quần áo rẻ hơn.
+I thought the clothes were cheaper.
+
+Tôi tin bạn.
+I trust you.
+
+Bây giờ tôi hiểu.
+I understand now.
+
+Tôi hiểu.
+I understand.
+
+Tôi thường uống cà phê vào bữa điểm tâm.
+I usually drink coffee at breakfast.
+
+Tôi muốn mua một món đồ.
+I want to buy something.
+
+Tôi muốn liên lạc với tòa đại sứ của chúng ta.
+I want to contact our embassy.
+
+Tôi muốn tặng bạn một món quà.
+I want to give you a gift.
+
+Tôi muốn gửi gói hàng này đi Mỹ.
+I want to send this package to the United States.
+
+Tôi muốn cho bạn xem một cái này.
+I want to show you something.
+
+Tôi sắp rời nhà hàng khi những người bạn của tôi tới.
+I was about to leave the restaurant when my friends arrived.
+
+Tôi sắp đi tới thư viện.
+I was going to the library.
+
+Tôi ở trong thư viện.
+I was in the library.
+
+Tôi tới siêu thị rồi tới cửa hàng máy tính.
+I went to the supermarket, and then to the computer store.
+
+Tôi ước gì có một cái.
+I wish I had one.
+
+Tôi muốn một tấm bản đồ của thành phố.
+I'd like a map of the city.
+
+Tôi muốn một phòng không hút thuốc.
+I'd like a non-smoking room.
+
+Tôi muốn một phòng với 2 giường, xin vui lòng.
+I'd like a room with two beds please.
+
+Tôi muốn một phòng.
+I'd like a room.
+
+Tôi muốn một phòng đơn.
+I'd like a single room.
+
+Tôi muốn một phòng gần cửa sổ.
+I'd like a table near the window.
+
+Tôi cũng muốn một ít nước, xin vui lòng.
+I'd like some water too, please.
+
+Tôi muốn số điện thoại của khách sạn Hilton, xin vui lòng.
+I'd like the number for the Hilton Hotel please.
+
+Tôi muốn mua một chai nước, xin vui lòng.
+I'd like to buy a bottle of water, please.
+
+=========
+- I give in.
+Tôi chịu thua.
+
+- I beg you.
+Tôi xin bạn.
+
+- I never liked it anyway.
+Tôi không thích cái này lắm.
+
+- In the nick of time.
+Vừa đúng/kịp lúc.
+
+- I believe that my fate will be changed by me.
+Tôi tin rằng tự tôi có thể thay đổi số phận.
+===========
+TỪ VỰNG VỀ TÌNH YÊU
+
+1. fall in love --> phải lòng ai
+
+2. adore you --> yêu em tha thiết
+
+3. flirt --> tán tỉnh
+
+4. lovesick --> tương tư, đau khổ vì yêu
+
+5. so in love with you --> vậy nên anh mới yêu em
+
+6. a date --> hẹn hò
+
+7. blind date --> buổi hẹn hò đầu tiên (của những cặp đôi chưa từng gặp nhau trước đó)
+
+8. hold hands --> cầm tay
+
+9. live together --> sống cùng nhau
+
+10. split up, break up --> chia tay
+
+11. crazy about you --> yêu em đến điên cuồng
+
+12. madly in love --> yêu cuồng nhiệt, yêu mãnh liệt
+
+13. die for you --> sẵn sàng chết vì em
+
+14. love you --> yêu em
+
+15. great together --> được ở bên nhau thật tuyệt vời
+
+16. love you forever --> yêu em mãi mãi
+
+17. my sweetheart --> người yêu của tôi
+
+18. love you the most --> anh yêu em nhất trên đời
+
+19. my true love --> tình yêu đích thực của tôi
+
+20. my one and only --> người yêu duy nhất cuả tôi
+
+21. the love of my life --> tình yêu của cuộc đời tôi
+
+22. can't live without you --> không thể sống thiếu em được
+
+23. love you with all my heart --> yêu em bằng cả trái tim
+==================
+DÙNG TRONG GIAO TIẾP HẰNG NGÀY
+
+Come to think of it : Nghĩ kỹ thì
+Can't help it : Không thể nào làm khác hơn
+Come on : Thôi mà gắng lên, cố lên
+Cool it : Đừng nóng
+Come off it: Đừng xạo
+Cut it out : Đừng giỡn nữa, ngưng lại
+
+So? : Vậy thì sao?
+So So :Thường thôi
+So what? : Vậy thì sao?
+Stay in touch : Giữ liên lạc
+Step by step : Từng bước một
+See ? : Thấy chưa?
+Sooner or later : Sớm hay muộn
+Shut up ! : Im Ngay
+
+Nothing :Không có gì
+Nothing at all : Không có gì cả
+No choice :Hết cách,
+No hard feeling :Không giận chứ
+Not a chance : Chẳng bao giờ
+Now or never : ngay bây giờ hoặc chẳng bao giờ
+N source from fb. com/tienganhthatde
+No way out/ dead end : không lối thoát, cùng đường
+No more : Không hơn
+No more, no less : Không hơn, không kém
+No kidding ? : Không nói chơi chứ ?
+Never say never :Đừng bao giờ nói chẳng bao giờ
+none of your business :Không phải chuyện của anh
+No way :Còn lâu
+No problem :Dễ thôi
+No offense: Không phản đối
+
+Well? : Sao hả?
+Well Then : Như vậy thì
+Who knows : Ai biết
+Way to go : Khá lắm, được lắm
+Why not ? : Tại sao không ?
+White lie : Ba xạo
+===================
+WHAT DO YOU WANT ?
+
+26. What do you want?
+Mày muốn gì ?
+
+27.You’ve gone too far!
+Mày thật quá quắt/ đáng !
+
+28. Get away from me!
+Hãy tránh xa tao ra !
+
+29. I can’t take you any more!
+Tao chịu hết nỗi mày rồi
+
+30. You asked for it.
+Do tự mày chuốc lấy
+
+31. Shut up!
+Câm miệng
+
+32. Get lost.
+Cút đi
+
+33. You’re crazy!
+Mày điên rồi !
+
+34. Who do you think you are?
+Mày tưởng mày là ai ?
+
+35. I don’t want to see your face!
+Tao không muốn nhìn thấy mày nữa
+
+36. Get out of my face.
+Cút ngay khỏi mặt tao
+
+37. Don’t bother me.
+Đừng quấy rầy/ nhĩu tao
+
+38. You piss me off.
+Mày làm tao tức chết rồi
+
+39. You have a lot of nerve.
+Mặt mày cũng dày thật
+
+40. It’s none of your business.
+Liên quan gì đến mày
+
+41. Do you know what time it is?
+Mày có biết mày giờ rối không?
+
+42. Who says?
+Ai nói thế ?
+
+43. Don’t look at me like that.
+Đừng nhìn tao như thế
+
+44. Drop dead.
+Chết đi
+
+45. You bastard!
+Đồ tạp chũng
+
+46. That’s your problem.
+Đó là chuyện của mày.
+
+======================
+MẸO GHI NHỚ TỪ TRONG TIẾNG ANH RẤT THÚ VỊ
+
+* Các nguyên âm trong tiếng anh:
+- (U, E, O, A, I) -> UỂ OẢI
+- (U, E, O, A, I) -> UỂ OẢI
+- (U, E, O, A, I) -> UỂ OẢI
+^^
+* Thêm -es đối với các từ tận cùng bằng O, S, X, Z, SH, CH:
+- O, S, X, Z, SH, CH -> ỐC SÊN XÀO ZÍ HÀNH
+- O, S, X, Z, SH, CH -> ỐC SÊN XÀO ZÍ HÀNH
+- O, S, X, Z, SH, CH -> ỐC SÊN XÀO ZÍ HÀNH
+^^
+* Dùng on, at, in: on Wednesday, at 5.p.m, in August, in 2012
+- "Ngày ôm (on) giờ ấp (at ) tháng năm iu (in)"
+- "Ngày ôm (on) giờ ấp (at ) tháng năm iu (in)"
+- "Ngày ôm (on) giờ ấp (at ) tháng năm iu (in)"
+^^
+* NEWS ( North, East, West, South)
+- East - West - South - North -> ÍT QUÁ SAO NO
+- East - West - South - North -> ÍT QUÁ SAO NO
+- East - West - South - North -> ÍT QUÁ SAO NO
+^^
+* Thứ tự của một chuỗi tính từ là: “OSASCOMP”
+- OSASCOMP -> Ông Sáu Ăn Súp Cua Ông Mập Phì
+- OSASCOMP -> Ông Sáu Ăn Súp Cua Ông Mập Phì
+- OSASCOMP -> Ông Sáu Ăn Súp Cua Ông Mập Phì
+^^
+
+* FAMILY -> Father And Mother, I Love You
+^^
+* Blackboard (n): cái bảng đen
+- Bà lão ăn củ khoai bỏ ông ăn rau dền ^^
+
+* Nếu có ý định du lịch, thì hãy đến nước Ý hoặc Hà Lan, rất hiếu khách và thân thiện ^^
+- ITALY -> I Trust And Love You - Tôi tin tưởng và yêu bạn ^^
+- HOLLAND -> Hope Our Love Lasts And Never Dies - Hi vọng tình yêu của chúng ta là mãi mãi và bât tử ^^
