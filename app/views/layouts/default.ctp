@@ -59,14 +59,14 @@
         <div class="row">
 
             <!-- Blog Entries Column -->
-            <div class="col-md-12">
+            <div class="col-md-8">
                 <?php echo $content_for_layout; ?>
                 
 
             </div>
 
             <!-- Blog Sidebar Widgets Column -->
-            <div class="col-md-4" style="display: none;">
+            <div class="col-md-4" >
 
                 <!-- Blog Search Well -->
                 <div class="well">
@@ -143,11 +143,11 @@
     </div>
     <!-- /.container -->
 
-    <!-- jQuery Version 1.11.0 -->
-    <script src="default/js/jquery-1.11.0.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="default/js/bootstrap.min.js"></script>
+    
+    <?php
+            echo $this->Html->script(array('jquery-1.11.0.js', 'bootstrap.min.js', ));            
+    ?>
 
 </body>
 
